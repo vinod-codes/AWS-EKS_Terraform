@@ -34,6 +34,8 @@ Before proceeding, ensure you have the following:
 - **[AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)**  
 - **[EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)**  
 🔗 _This project follows AWS best practices for EKS deployment using Terraform._  
-
 ## 🎯 **YOLO Badge Update**
 This change is made to demonstrate the YOLO GitHub achievement - creating and merging a PR without code review!
+
+## 🦈 **Pull Shark Badge - Update 1**
+Adding this section for the Pull Shark achievement!
